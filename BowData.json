@@ -1,8 +1,8 @@
 {
-  "Owners" : [
-    1391465797,
-    248426523
-  ],
+  "Owners" : {
+    "1391465797" : true,
+    "248426523" : true,
+  }
 
   "WeaponData" : {
     "DamageData" : {
