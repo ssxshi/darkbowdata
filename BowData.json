@@ -12,12 +12,10 @@
         "High" : 65
       },
 
-      "BoostData" : [
-        {
-          "Distance" : 15,
-          "Damage" : 15
-        }
-      ]
+      "BoostData" : {
+        "Distance" : 15,
+        "Damage" : 15
+      }
     }
   ]
 }
