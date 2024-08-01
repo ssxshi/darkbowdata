@@ -6,15 +6,11 @@
 
   "Weapon Data" : [
     {
-      "DamageData" : [
-        {
-          "Low" : 25,
-          "Medium" : 35,
-          "High" : 65,
-
-          "Duration" : 3
-        }
-      ],
+      "DamageData" : {
+        "Low" : 25,
+        "Medium" : 35,
+        "High" : 65
+      },
 
       "BoostData" : [
         {
