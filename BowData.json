@@ -13,6 +13,13 @@
 
           "Duration" : 3
         }
+      ],
+
+      "BoostData" : [
+        {
+          "Distance" : 15,
+          "Damage" : 15
+        }
       ]
     }
   ]
