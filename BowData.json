@@ -4,18 +4,16 @@
     248426523
   ],
 
-  "Weapon Data" : [
-    {
-      "DamageData" : {
-        "Low" : 25,
-        "Medium" : 35,
-        "High" : 65
-      },
+  "WeaponData" : {
+    "DamageData" : {
+      "Low" : 25,
+      "Medium" : 35,
+      "High" : 65
+    },
 
-      "BoostData" : {
-        "Distance" : 15,
-        "Damage" : 15
-      }
+    "BoostData" : {
+      "Distance" : 15,
+      "Damage" : 15
     }
-  ]
+  }
 }
