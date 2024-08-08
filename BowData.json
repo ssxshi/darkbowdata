@@ -1,18 +1,14 @@
 {
   "Owners" : {
     "1391465797" : true,
-    "248426523" : true,
-    "1890523661" : true,
-    "159836286" : true,
-    "1581029000" : true,
-    "44825014" : true
+    "1890523661" : true
   },
 
   "WeaponData" : {
     "DamageData" : {
       "Low" : 25,
       "Medium" : 35,
-      "High" : 65
+      "High" : 50
     },
 
     "BoostData" : {
