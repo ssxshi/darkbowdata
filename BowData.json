@@ -9,7 +9,7 @@
     "DamageData" : {
       "Low" : 25,
       "Medium" : 35,
-      "High" : 50
+      "High" : 65
     },
 
     "BoostData" : {
