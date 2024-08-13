@@ -16,5 +16,9 @@
       "Distance" : 15,
       "Damage" : 15
     }
-  }
+  },
+
+  "RingsData" : {
+    
+  } 
 }
