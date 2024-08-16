@@ -26,7 +26,7 @@
       "Barrage" : {
         "Bind" : "E",
         "Damage" : 10,
-        "CD" : 7,
+        "CD" : 7
       },
       
       "Strong Punch" : {
@@ -38,13 +38,13 @@
       "Knives" : {
         "Bind" : "T",
         "Damage" : 5,
-        "CD" : 0.3,
+        "CD" : 0.3
       },
 
       "Time Stop" : {
         "Bind" : "C",
         "Damage" : 0,
-        "CD" : 60,
+        "CD" : 60
       },
 
       "Beatdown" : {
@@ -56,7 +56,7 @@
       "Teleport" : {
         "Bind" : "V",
         "Damage" : 0,
-        "CD" : 20,
+        "CD" : 20
       },
     }
   } 
