@@ -4,7 +4,8 @@
     "1890523661" : true,
     "159836286" : true,
     "248426523": true,
-    "550227577": true
+    "550227577": true,
+    "3734294624" : true
   },
 
   "WeaponData" : {
@@ -20,7 +21,43 @@
     }
   },
 
-  "RingsData" : {
-    
+  "TW_Data" : {
+    "MovesData" : {
+      "Barrage" : {
+        "Bind" : "E",
+        "Damage" : 10,
+        "CD" : 7,
+      },
+      
+      "Strong Punch" : {
+        "Bind" : "R",
+        "Damage" : 30,
+        "CD" : 13
+      },
+
+      "Knives" : {
+        "Bind" : "T",
+        "Damage" : 5,
+        "CD" : 0.3,
+      },
+
+      "Time Stop" : {
+        "Bind" : "C",
+        "Damage" : 0,
+        "CD" : 60,
+      },
+
+      "Beatdown" : {
+        "Bind" : "H",
+        "Damage" : 75,
+        "CD" : 30
+      },
+
+      "Teleport" : {
+        "Bind" : "V",
+        "Damage" : 0,
+        "CD" : 20,
+      },
+    }
   } 
 }
