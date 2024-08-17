@@ -56,7 +56,7 @@
       "Teleport" : {
         "Bind" : "V",
         "Damage" : 0,
-        "CD" : 0.3
+        "CD" : 0.2
       }
     }
   } 
