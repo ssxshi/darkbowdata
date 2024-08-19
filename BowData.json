@@ -25,7 +25,7 @@
     "MovesData" : {
       "Barrage" : {
         "Bind" : "E",
-        "Damage" : 10,
+        "Damage" : 8,
         "CD" : 0.2
       },
       
